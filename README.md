@@ -11,7 +11,7 @@ npm install
 ```
 
 ```shell
-npm storybook
+npm run storybook
 ```
 
 Then go to https://localhost:6006 to explore the Storybook instance
